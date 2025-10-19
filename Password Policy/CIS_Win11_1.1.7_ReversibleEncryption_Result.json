@@ -1,0 +1,11 @@
+﻿{
+    "Control":  "1.1.7",
+    "Policy":  "Store passwords using reversible encryption",
+    "RegistryPath":  "HKLM:\\SYSTEM\\CurrentControlSet\\Control\\Lsa",
+    "RegistryKey":  "ClearTextPassword",
+    "ExpectedValue":  0,
+    "CurrentValue":  "Not Found",
+    "Status":  "Hardened",
+    "ActionTaken":  "Created and set to Disabled (0)",
+    "TimeStamp":  "2025-10-19 14:25:31"
+}
