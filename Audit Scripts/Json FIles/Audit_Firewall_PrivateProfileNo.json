@@ -1,0 +1,8 @@
+﻿{
+    "Compliance_Status":  "Non-Compliant",
+    "Timestamp":  "2025-10-30 00:12:23",
+    "Current_Value":  "Off",
+    "Benchmark_ID":  "9.2.1 (L1)",
+    "Policy_Name":  "Ensure \u0027Windows Firewall: Private: Firewall state\u0027 is set to \u0027On (recommended)\u0027",
+    "Recommended_Value":  "On (recommended)"
+}
