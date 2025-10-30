@@ -1,0 +1,9 @@
+﻿{
+    "Compliance_Status":  "Compliant",
+    "Timestamp":  "2025-10-31 05:02:41",
+    "Current_Active_State":  "ON",
+    "Registry_Value":  1,
+    "Benchmark_ID":  "9.3.1 (L1)",
+    "Policy_Name":  "Windows Firewall: Public: Firewall state is set to \u0027On (recommended)\u0027",
+    "Recommended_Value":  "On"
+}

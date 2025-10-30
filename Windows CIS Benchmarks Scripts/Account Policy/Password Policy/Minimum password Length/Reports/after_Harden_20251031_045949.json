@@ -1,0 +1,8 @@
+﻿{
+    "Compliance_Status":  "COMPLIANT",
+    "Timestamp":  "2025-10-31 04:59:51",
+    "Current_Value":  "14 characters",
+    "Benchmark_ID":  "1.1.4 (L1)",
+    "Policy_Name":  "Minimum password length is set to \u002714 or more character(s)\u0027 (Automated)",
+    "Recommended_Value":  "\u003e= 14 characters"
+}
