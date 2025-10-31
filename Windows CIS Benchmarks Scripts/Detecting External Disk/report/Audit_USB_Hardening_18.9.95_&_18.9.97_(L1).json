@@ -1,0 +1,9 @@
+﻿{
+    "Benchmark_ID":  "18.9.95 \u0026 18.9.97 (L1)",
+    "Policy_Name":  "Ensure AutoRun is disabled and Removable Storage Access is restricted",
+    "Timestamp":  "2025-10-31 11:17:38",
+    "External_Drives":  0,
+    "AutoRun_Status":  "AutoRun fully disabled (Compliant)",
+    "StoragePolicyStatus":  "Policy key exists (Compliant)",
+    "Compliance_Status":  "COMPLIANT"
+}
