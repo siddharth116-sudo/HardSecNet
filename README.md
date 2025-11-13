@@ -152,20 +152,20 @@ Outputs:
                       │     Flask Backend    │
                       └───────┬─────┬────────┘
                  Snapshot/AI  │     │ Audit/Drift
-       ┌──────────────────────┘     └──────────────────────┐
-       │                                                     │
-┌──────▼───────┐                                   ┌────────▼────────┐
-│  Linux TUI   │                                   │  Windows GUI    │
-│  Bash + TUI  │                                   │  Rust + PS      │
-└──────┬───────┘                                   └────────┬────────┘
-       │ Scripts                                              │ Scripts
-       │                                                      │
-┌──────▼─────────┐                                 ┌──────────▼─────────┐
-│ Linux Scripts   │                                 │ Windows Scripts    │
-│ auditor.sh      │                                 │ Auditor.ps1        │
-│ hardener.sh     │                                 │ Hardener.ps1       │
-│ snapshot.sh     │                                 │ Snapshot.ps1       │
-└─────────────────┘                                 └─────────────────────┘
+       ┌──────────────────────┘     └──────────────────────────┐
+       │                                                       │
+┌──────▼───────┐                                      ┌────────▼────────┐
+│  Linux TUI   │                                      │  Windows GUI    │
+│  Bash + TUI  │                                      │  Rust + PS      │
+└──────┬───────┘                                      └────────┬────────┘
+       │ Scripts                                               │ Scripts
+       │                                                       │
+┌──────▼─────────┐                                  ┌──────────▼─────────┐
+│ Linux Scripts  │                                  │ Windows Scripts    │
+│ auditor.sh     │                                  │ Auditor.ps1        │
+│ hardener.sh    │                                  │ Hardener.ps1       │
+│ snapshot.sh    │                                  │ Snapshot.ps1       │
+└────────────────┘                                  └────────────────────┘
 ```
 
 ---
