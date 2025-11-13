@@ -1,0 +1,13 @@
+{
+  "auditDetails": {
+    "benchmarkId": "4.2.7",
+    "title": "Ensure ufw default deny firewall policy",
+    "timestamp": "2025-10-30T06:06:17Z"
+  },
+  "systemState": {
+    "ufw_status": "active",
+    "policy_input": "deny",
+    "policy_output": "deny",
+    "policy_forward": ""
+  }
+}
