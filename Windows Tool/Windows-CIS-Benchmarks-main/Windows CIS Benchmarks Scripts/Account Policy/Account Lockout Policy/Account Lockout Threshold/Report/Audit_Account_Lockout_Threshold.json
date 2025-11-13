@@ -1,0 +1,8 @@
+﻿{
+    "Compliance_Status":  "Compliant",
+    "Timestamp":  "2025-10-31 02:16:25",
+    "Current_Value":  "5 attempts",
+    "Benchmark_ID":  "1.2.2 (L1)",
+    "Policy_Name":  "Account lockout threshold is set to \u00275 or fewer invalid logon attempt(s), but not 0\u0027",
+    "Recommended_Value":  "1-5 attempts (not 0)"
+}

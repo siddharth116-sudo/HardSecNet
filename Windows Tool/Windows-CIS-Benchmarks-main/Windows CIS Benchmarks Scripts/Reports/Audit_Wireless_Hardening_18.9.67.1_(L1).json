@@ -1,0 +1,9 @@
+﻿{
+    "Benchmark_ID":  "18.9.67.1 (L1)",
+    "Policy_Name":  "Turn off all wireless communications",
+    "Timestamp":  "2025-11-09 11:13:54",
+    "Registry_Path":  "HKLM:\\SOFTWARE\\Policies\\Microsoft\\Windows\\WcmSvc\\GroupPolicy",
+    "Registry_Value":  "Missing",
+    "Wireless_Status":  "Policy key missing or undefined (Non-Compliant)",
+    "Compliance_Status":  "NON-COMPLIANT"
+}

@@ -1,0 +1,24 @@
+﻿{
+    "Compliance_Status":  "Non-Compliant",
+    "Timestamp":  "2025-10-31 03:36:37",
+    "Current_Value":  "*S-1-5-32-544",
+    "Assigned_SIDs":  [
+                          "*S-1-5-32-544"
+                      ],
+    "Assigned_SID_Names":  [
+                               "Unknown SID (*S-1-5-32-544)"
+                           ],
+    "Missing_Required_SIDs":  [
+                                  "S-1-5-32-544"
+                              ],
+    "Non_Compliant_SIDs":  [
+
+                           ],
+    "HyperV_Detected":  false,
+    "Warnings":  [
+
+                 ],
+    "Benchmark_ID":  "2.2.14 (L1)",
+    "Policy_Name":  "Ensure \u0027Create symbolic links\u0027 is set to \u0027Administrators\u0027",
+    "Recommended_Value":  "S-1-5-32-544 (Administrators)"
+}
