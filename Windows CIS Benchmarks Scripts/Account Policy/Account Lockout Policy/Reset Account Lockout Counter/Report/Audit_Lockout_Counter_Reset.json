@@ -1,8 +1,0 @@
-﻿{
-    "Compliance_Status":  "Compliant",
-    "Timestamp":  "2025-10-31 02:21:20",
-    "Current_Value":  "15 minutes",
-    "Benchmark_ID":  "1.2.4 (L1)",
-    "Policy_Name":  "Reset account lockout counter after is set to \u002715 or more minute(s)\u0027",
-    "Recommended_Value":  "15 or more minute(s) (not 0)"
-}
